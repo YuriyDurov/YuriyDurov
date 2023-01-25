@@ -3,8 +3,6 @@ I am Yuriy, a software engineer.
 
 Programming for me is a way to make a positive contribution to the world.
 
-- 😄 Pronouns: He/Him
-
 ---
 
 ### 🚀 I keep my best works under [<ins>this</ins>](https://github.com/BitzArt) organization.
