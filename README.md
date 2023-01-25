@@ -27,8 +27,7 @@ Programming for me is a way to make a positive contribution to the world.
 
 ### 📡 My current technology stack primarily revolves around:
 - [.Net](https://dotnet.microsoft.com/en-us/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/), [Asp.Net Core](https://github.com/dotnet/aspnetcore);
-- [EF Core](https://github.com/dotnet/efcore), [Elasticsearch](https://www.elastic.co/);
-- [SQL Server](https://www.microsoft.com/en-us/sql-server) | [MySQL](https://www.mysql.com/) | [PostgreSQL](https://www.postgresql.org/) | [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction);
+- [EF Core](https://github.com/dotnet/efcore), [SQL Server](https://www.microsoft.com/en-us/sql-server) | [MySQL](https://www.mysql.com/) | [PostgreSQL](https://www.postgresql.org/) | [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction);
 - [RabbitMQ](https://www.rabbitmq.com/), [MassTransit](https://masstransit-project.com/);
 - [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/);
 - [Microsoft Azure](https://azure.microsoft.com/en-us), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops);
