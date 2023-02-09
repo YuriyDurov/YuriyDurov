@@ -35,6 +35,6 @@ Programming for me is a way to make a positive contribution to the world.
 
 #### 🔭 I’m currently working on: [OCPI.Net](https://github.com/BitzArt/OCPI.Net)
 
-#### 🌱 I’m currently learning: [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction), [Angular](https://angular.io/)
+#### 🌱 I’m currently learning: [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction), [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 
 #### 📫 How to reach me: u.a.durov@gmail.com
