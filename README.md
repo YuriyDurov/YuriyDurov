@@ -13,13 +13,13 @@ Programming for me is a way to make a positive contribution to the world.
 
 - #### 🦾 [ApiExceptions](https://github.com/BitzArt/ApiExceptions) is a nuget package with a mission to reinvent exceptions in C#.
 
-  It provides additional exception classes and advanced functionality around handling errors.
+  Provides additional exception classes and advanced functionality for handling errors.
 
 - #### 📚 [Pagination](https://github.com/BitzArt/Pagination) is a lightweight nuget package that provides pagination capabilities.
 
-    It allows easily separating data from any source into discrete pages.
+    Allows easily separating data from any source into discrete pages.
     
-    It works with (or without) EF Core.
+    Works with (or without) EF Core.
 
 ---
 
