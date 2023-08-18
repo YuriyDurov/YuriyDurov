@@ -28,13 +28,13 @@ Programming for me is a way to make a positive contribution to the world.
 - [EF Core](https://github.com/dotnet/efcore), [SQL Server](https://www.microsoft.com/en-us/sql-server) | [MySQL](https://www.mysql.com/) | [PostgreSQL](https://www.postgresql.org/) | [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction);
 - [RabbitMQ](https://www.rabbitmq.com/), [MassTransit](https://masstransit-project.com/);
 - [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/);
-- [Microsoft Azure](https://azure.microsoft.com/en-us), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops);
-- And more.
+- [Azure DevOps](https://azure.microsoft.com/en-us/products/devops);
+- And much more
 
 ---
 
-#### 🔭 I’m currently working on: [OCPI.Net](https://github.com/BitzArt/OCPI.Net)
+#### 🔭 I’m currently working on: [OCPI.Net](https://github.com/BitzArt/OCPI.Net), [ApiExceptions](https://github.com/BitzArt/ApiExceptions)
 
-#### 🌱 I’m currently learning: [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction), [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+#### 🌱 I’m currently learning: [MudBlazor](https://mudblazor.com/)
 
 #### 📫 How to reach me: u.a.durov@gmail.com
