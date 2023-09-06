@@ -19,7 +19,7 @@ Programming for me is a way to make a positive contribution to the world.
 
     Allows easily separating data from any source into discrete pages.
     
-    Works with (or without) EF Core.
+    Works with (or without) EF Core. Supports integration with other ORMs.
 
 ---
 
