@@ -33,7 +33,7 @@ Programming for me is a way to make a positive contribution to the world.
 
 ---
 
-#### 🔭 I’m currently working on: [Communicator](https://github.com/BitzArt/Communicator), [OCPI.Net](https://github.com/BitzArt/OCPI.Net), [ApiExceptions](https://github.com/BitzArt/ApiExceptions)
+#### 🔭 I’m currently working on: [Flux](https://github.com/BitzArt/Flux), [OCPI.Net](https://github.com/BitzArt/OCPI.Net), [ApiExceptions](https://github.com/BitzArt/ApiExceptions)
 
 #### 🌱 I’m currently learning: [MudBlazor](https://mudblazor.com/)
 
