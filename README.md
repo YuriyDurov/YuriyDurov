@@ -7,6 +7,10 @@ Programming for me is a way to make a positive contribution to the world.
 
 ### 🚀 I keep my best works under [<ins>this</ins>](https://github.com/BitzArt) organization.
 
+- #### 🪢 [Flux](https://github.com/BitzArt/Flux) is a universal WebApi client.
+
+    It introduces an intuitive way for your software to communicate with external systems, whether they use REST, SOAP, or some other communication standard.
+
 - #### ⚡ [OCPI.Net](https://github.com/BitzArt/OCPI.Net) is an implementation of OCPI for .Net.
 
     OCPI (Open Charge Point Interface) is a protocol that allows distinct parties in the field of electric vehicle charging to communicate, exchange data and share functionality. [<ins>Learn more about OCPI</ins>](https://github.com/ocpi/ocpi)
