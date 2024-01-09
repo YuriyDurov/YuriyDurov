@@ -15,8 +15,7 @@ Programming for me is a way to make a positive contribution to the world.
 
     OCPI (Open Charge Point Interface) is a protocol that allows distinct parties in the field of electric vehicle charging to communicate, exchange data and share functionality. [<ins>Learn more about OCPI</ins>](https://github.com/ocpi/ocpi)
 
-- #### 🫧
-[ApiExceptions](https://github.com/BitzArt/ApiExceptions) is a nuget package with a mission to reinvent exceptions in C#.
+- #### 🫧 [ApiExceptions](https://github.com/BitzArt/ApiExceptions) is a nuget package with a mission to reinvent exceptions in C#.
 
   Provides additional exception classes and advanced functionality for handling errors.
 
